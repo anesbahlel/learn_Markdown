@@ -1,6 +1,6 @@
 # learn_Markdown
 
-#Apprendre les titres
-#Gros titre
-##Titre moyen
-###petit titre
+# Apprendre les titres
+# Gros titre
+## Titre moyen
+### Petit titre
