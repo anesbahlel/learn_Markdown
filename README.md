@@ -14,3 +14,6 @@ J'adore *Git et GitHub*
 ~~Ceci est une erreur~~  
 <sub>Mon texte est plus petit</sub>  
 <sup>Superscript</sup>  
+# Citations  
+> Nous avons ici une citation  
+Nous avons impriqué 'une citaion' ici
